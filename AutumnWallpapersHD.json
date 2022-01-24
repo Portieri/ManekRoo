@@ -3,7 +3,7 @@
 
 "JSON_POPUP_WAIT" : "Please wait for loading data ...",
 
-"TOAST_NOTIF" : false,
+"TOAST_NOTIF" : true,
 
 "MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
