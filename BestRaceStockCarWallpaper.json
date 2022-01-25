@@ -3,8 +3,8 @@
  
 "json_popup_wait" : "Please wait for loading data ...",
   
-"mode_no_ads" : true,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
