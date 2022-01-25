@@ -1,0 +1,78 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Please wait for loading data ...",
+
+"TOAST_NOTIF" : false,
+
+"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : true,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+//     * Untuk Native akan terganti menjadi banner jika tanpa id 
+
+
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "",
+
+"INTERS_COUNT_WEB" : 3,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+
+"HPK_ALIENDROID" : "Donate Car to Charity California",
+"HPK_ADMOB1" : "Mesothelioma Law",
+"HPK_ADMOB2" : "Life Insurance",
+"HPK_ADMOB3" : "Donate Car",
+"HPK_ADMOB4" : "Online Classes",
+"HPK_ADMOB5" : "Structures Annuity Settlement",,
+
+"UNITY_BANNER" : "Banner_Android"
+"UNITY_INTERSTITIAL" : "Interstitial_Android"
+"UNITY_GAME_ID" : "4578551",
+"UNITY_TEST_MODE" : false,
+
+"STARAPPID" : "205957368",
+
+"APPLOVIN_BANNER_ID" : "327b1c1510808e20",
+"APPLOVIN_INTERSTITIAL_ID" : "38014cab1d6a3230",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"BUTTON_RATING" : "Rate App",
+"BUTTON_SHARE" : "Share",
+"BUTTON_START" : "Start",
+
+"EXIT_POPUP_DIALOG" : "Please support us by giving 5 stars rating, Thank You...:)",
+"RATE_BUTTON" : "Rating 5 Stars",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "Awesome App, Download Now...",
+"MORE_BUTTON" : "Share This App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+
+
+  }
+}
+
+
