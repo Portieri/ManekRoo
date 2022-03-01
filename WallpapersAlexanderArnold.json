@@ -54,8 +54,8 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "",
-"applovin_inters_id" : "",
+"applovin_banner_id" : "123456",
+"applovin_inters_id" : "123456",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
