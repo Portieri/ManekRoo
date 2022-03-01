@@ -55,8 +55,8 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
-"applovin_inters_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
+"applovin_banner_id" : "YOUR_PLACEMENT_ID",
+"applovin_inters_id" : "YOUR_PLACEMENT_ID",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
