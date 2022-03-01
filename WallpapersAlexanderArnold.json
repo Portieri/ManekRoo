@@ -3,8 +3,8 @@
  
 "json_popup_wait" : "Please wait for loading data ...",
   
-"mode_no_ads" : true,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -16,9 +16,9 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_native" : "",
 
 "inter_count" : 3,
 
@@ -54,8 +54,8 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "327b1c1510808e20",
-"applovin_inters_id" : "38014cab1d6a3230",
+"applovin_banner_id" : "",
+"applovin_inters_id" : "",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
