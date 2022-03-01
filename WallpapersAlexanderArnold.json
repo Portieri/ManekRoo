@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : ,
+"unity_id" : 1234567,
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
