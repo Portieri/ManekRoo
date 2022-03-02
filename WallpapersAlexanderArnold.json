@@ -33,16 +33,16 @@
 
 "startapp" : "206921050",
 
-"admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-"admob_inter" : "ca-app-pub-3940256099942544/1033173712",
+"admob_banner" : "ca-app-pub-3940256099942544/6300978111x",
+"admob_inter" : "ca-app-pub-3940256099942544/1033173712x",
 "admob_native" : "ca-app-pub-3940256099942544/2247696110x",
 
-"hpk_alien" : "Donate Car to Charity California",
-"hpkadmob1" : "Mesothelioma Law",
-"hpkadmob2" : "Life Insurance",
-"hpkadmob3" : "Donate Car",
-"hpkadmob4" : "Online Classes",
-"hpkadmob5" : "Structures Annuity Settlement",
+"hpk_alien" : "",
+"hpkadmob1" : "",
+"hpkadmob2" : "",
+"hpkadmob3" : "",
+"hpkadmob4" : "",
+"hpkadmob5" : "",
 
 "fan_banner" : "YOUR_PLACEMENT_ID",
 "fan_inter" : "YOUR_PLACEMENT_ID",
@@ -55,8 +55,8 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "YOUR_PLACEMENT_ID",
-"applovin_inters_id" : "YOUR_PLACEMENT_ID",
+"applovin_banner_id" : "1a65988ba395cb2e",
+"applovin_inters_id" : "ef128f857c528f52",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
