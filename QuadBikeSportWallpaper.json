@@ -5,10 +5,10 @@
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -42,7 +42,7 @@
 
 "UNITY_BANNER" : "Banner_Android"
 "UNITY_INTERSTITIAL" : "Interstitial_Android"
-"UNITY_GAME_ID" : "4594162",
+"UNITY_GAME_ID" : "4594162x",
 "UNITY_TEST_MODE" : false,
 
 "STARAPPID" : "206255581",
