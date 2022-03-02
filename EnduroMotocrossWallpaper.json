@@ -30,15 +30,15 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "ca-app-pub-4765095539204939/6606497725x",
+"ADMOB_INTER" : "ca-app-pub-4765095539204939/5325205643x",
 
-"HPK_ALIENDROID" : "Donate Car to Charity California",
-"HPK_ADMOB1" : "Mesothelioma Law",
-"HPK_ADMOB2" : "Life Insurance",
-"HPK_ADMOB3" : "Donate Car",
-"HPK_ADMOB4" : "Online Classes",
-"HPK_ADMOB5" : "Structures Annuity Settlement",
+"HPK_ALIENDROID" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
 
 "UNITY_BANNER" : "Banner_Android"
 "UNITY_INTERSTITIAL" : "Interstitial_Android"
