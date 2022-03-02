@@ -35,7 +35,7 @@
 
 "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
 "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-"admob_native" : "ca-app-pub-3940256099942544/2247696110",
+"admob_native" : "ca-app-pub-3940256099942544/2247696110x",
 
 "hpk_alien" : "Donate Car to Charity California",
 "hpkadmob1" : "Mesothelioma Law",
@@ -55,8 +55,8 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "327b1c1510808e20",
-"applovin_inters_id" : "38014cab1d6a3230",
+"applovin_banner_id" : "YOUR_PLACEMENT_ID",
+"applovin_inters_id" : "YOUR_PLACEMENT_ID",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
