@@ -1,0 +1,105 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Nature",
+      "title":"Mountain",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":4,
+      "name_category": "Animal",
+      "title":"Cute Cat",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Animal",
+      "title":"Dog",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Car",
+      "title":"Super Car",
+      "image":"file:///android_asset/image/car.jpg"
+    }
+  ]
+}
