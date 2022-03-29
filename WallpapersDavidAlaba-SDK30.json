@@ -1,0 +1,73 @@
+{
+  "redirect" : {
+ 
+"json_popup_wait" : "Please wait for loading data ...",
+  
+"mode_no_ads" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+
+// Mode Iklan
+// 
+//  mode pengaturan iklan
+//  Mode ADMOB       Admob backup Unity Backup Startapp
+//  Mode FAN         FAN  backup Unity Backup Startapp
+//  Mode APPODEAL    Appodeal  backup Unity Backup Startapp
+//  Mode UNITY       Unity backup Startapp
+//  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
+//  Iklan native hanya bisa admob fan appodel
+
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_native" : "APPLOVIN",
+
+"inter_count" : 3,
+
+"enable_strap" : true,
+"enable_strap_Splah" : true,
+
+"ads_on_exit_dialog" : true,
+
+"mode_offline_mp3" : false,
+"enable_sticky_notification" : true,
+
+"startapp" : "YOUR_APP_ID",
+
+"admob_banner" : "ca-app-pub-3940256099942544/6300978111x",
+"admob_inter" : "ca-app-pub-3940256099942544/1033173712x",
+"admob_native" : "ca-app-pub-3940256099942544/2247696110x",
+
+"hpk_alien" : "Donate Car to Charity California",
+"hpkadmob1" : "Mesothelioma Law",
+"hpkadmob2" : "Life Insurance",
+"hpkadmob3" : "Donate Car",
+"hpkadmob4" : "Online Classes",
+"hpkadmob5" : "Structures Annuity Settlement",
+
+"fan_banner" : "YOUR_PLACEMENT_ID",
+"fan_inter" : "YOUR_PLACEMENT_ID",
+"fan_native" : "YOUR_PLACEMENT_ID",
+
+"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+
+"unity_banner_id" : "banner",
+"unity_inters_id" : "interstitial",
+"unity_id" : 1234567,
+"unity_test" : false,
+
+"applovin_banner_id" : "YOUR_AD_UNIT_ID",
+"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+
+"Button_Rating" : "Rate App",
+"Button_Share" : "Share",
+"Button_Start" : "Start",
+
+"exit_popup_dialog" : "Please support us by giving 5 stars rating, Thank You...:)",
+"rate_button" : "Rate Now",
+"later_button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Awesome App, Download Now...  ",
+"more_button" : "Share This App",
+"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
