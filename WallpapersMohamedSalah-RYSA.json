@@ -3,8 +3,8 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "1234567",
-      "main_ads_intertitial":"1234567",
+      "main_ads_banner": "bd8c89ff10174539",
+      "main_ads_intertitial":"08ad7678d9ada149",
       "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
       "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "interval_intertitial": 3,
