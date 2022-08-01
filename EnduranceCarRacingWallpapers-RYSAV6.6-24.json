@@ -3,9 +3,9 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_ads_Admob_or_applovin":"12345678",
+      "main_ads_banner": "1ac0ad4fc886226a",
+      "main_ads_intertitial":"4d2b30e0574ec1db",
+      "main_native_ads_Admob_or_applovin":"81eab571f40154a6",
       "main_ads_rewards":"12345678",
       "backup_native_ads_Admob_or_applovin":"12345678",
       "backup_ads_banner":"12345678",
