@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-9433218134790007/8131852529x",
+      "main_ads_banner": "ca-app-pub-9433218134790007/8131852529",
       "main_ads_intertitial":"ca-app-pub-9433218134790007/1076818579",
       "main_native_ads_Admob_or_applovin":"ca-app-pub-9433218134790007/2049659902",
       "backup_native_ads_Admob_or_applovin":"ae95eff1ae804cb9x",
-      "backup_ads_banner":"1fc3dc41694720a0",
+      "backup_ads_banner":"1fc3dc41694720a0x",
       "backup_ads_intertitial":"fce134b5f8de1d0dx",
       "interval_intertitial": 3,
       "initialize_sdk":"1234567",
