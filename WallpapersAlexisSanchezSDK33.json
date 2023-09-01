@@ -15,7 +15,7 @@
       "open_ads_alien":"null",
       "open_ads_max":"null",
       "open_ads_wortise":"null",
-      "on_off_native_listview":"1",
+      "on_off_native_listview":"null",
       "interval_intertitial": 3,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
@@ -26,7 +26,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"null"
     }
   ],
   "More":
