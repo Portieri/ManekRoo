@@ -11,8 +11,8 @@
       "backup_ads_rewards":"123456789",
       "open_ads_admob":"123456789",
       "open_ads_alien":"123456789",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
+      "open_ads_max":"123456789",
+      "interval_intertitial": 3,
       "initialize_sdk":"123456789",
       "initialize_sdk_backup_ads":"123456789",
       "high_paying_keyword_1": "",
@@ -22,7 +22,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":"0"
+      "on_off_category":"3"
     }
   ],
   "More":
