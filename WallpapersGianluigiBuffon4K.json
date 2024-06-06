@@ -11,9 +11,7 @@
       "backup_ads_intertitial":"123456789",
       "backup_ads_rewards":"123456789",
       "backup_ads_natives":"123456789",
-      "open_ads_admob":"123456789",
-      "open_ads_alien":"123456789",
-      "open_ads_max":"123456789",
+      "open_app_ads":"123456789",
       "interval_intertitial": 3,
       "initialize_sdk":"123456789",
       "initialize_sdk_backup_ads":"123456789",
@@ -27,12 +25,6 @@
    
     }
   ],
-   "More":
-  [
-    
-
-  ],
-
   "Categories": [
     
   ],
