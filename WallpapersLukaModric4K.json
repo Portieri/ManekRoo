@@ -2,19 +2,19 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"",
-      "main_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "backup_ads_natives":"",
-      "open_app_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"123456789",
+      "main_ads_natives":"123456789",
+      "backup_ads_banner":"123456789",
+      "backup_ads_intertitial":"123456789",
+      "backup_ads_rewards":"123456789",
+      "backup_ads_natives":"123456789",
+      "open_app_ads":"123456789",
+      "interval_intertitial": 3,
+      "initialize_sdk":"123456789",
+      "initialize_sdk_backup_ads":"123456789",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -26,245 +26,11 @@
     }
   ],
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "Sport Car",
-      "image": "https://aliendro.id/demo/walljson/car6.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Wild Animals",
-      "image": "file:///android_asset/image/animal1.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Space",
-      "image": "file:///android_asset/image/space1.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Astronout",
-      "image": "file:///android_asset/image/astro1.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Media Art",
-      "image": "file:///android_asset/image/art1.jpg"
-    }
+    
   ],
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Sport Car",
-      "title":"Super Car 01",
-      "image":"https://aliendro.id/demo/walljson/car1.jpg",
-      "lock":false
-    },
-    {
-      "id":2,
-      "name_category": "Sport Car",
-      "title":"Super Car 02",
-      "image":"https://aliendro.id/demo/walljson/car2.jpg",
-      "lock":false
-    },
-    {
-      "id":3,
-      "name_category": "Sport Car",
-      "title":"Super Car 03",
-      "image":"https://aliendro.id/demo/walljson/car3.jpg",
-      "lock":false
-    },
-    {
-      "id":4,
-      "name_category": "Sport Car",
-      "title":"Super Car 04",
-      "image":"https://aliendro.id/demo/walljson/car4.jpg",
-      "lock":false
-    },
-    {
-      "id":5,
-      "name_category": "Sport Car",
-      "title":"Super Car 05",
-      "image":"file:///android_asset/image/car5.jpg",
-      "lock":true
-    },
-    {
-      "id":6,
-      "name_category": "Sport Car",
-      "title":"Super Car 06",
-      "image":"https://aliendro.id/demo/walljson/car6.jpg",
-      "lock":false
-    },
-    {
-      "id":7,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 1",
-      "image":"file:///android_asset/image/animal1.jpg",
-      "lock":false
-    },
-    {
-      "id":8,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 2",
-      "image":"file:///android_asset/image/animal2.jpg",
-      "lock":false
-    },
-    {
-      "id":9,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 3",
-      "image":"file:///android_asset/image/animal3.jpg",
-      "lock":false
-    },
-    {
-      "id":10,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 4",
-      "image":"file:///android_asset/image/animal4.jpg",
-      "lock":true
-    },
-    {
-      "id":11,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 5",
-      "image":"file:///android_asset/image/animal5.jpg",
-      "lock":true
-    },
-    {
-      "id":12,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 1",
-      "image":"file:///android_asset/image/animal6.jpg",
-      "lock":false
-    },
-    {
-      "id":13,
-      "name_category": "Space",
-      "title":"Space 1",
-      "image":"file:///android_asset/image/space1.jpg",
-      "lock":true
-    },
-    {
-      "id":14,
-      "name_category": "Space",
-      "title":"Space 2",
-      "image":"file:///android_asset/image/space2.jpg",
-      "lock":false
-    },
-    {
-      "id":15,
-      "name_category": "Space",
-      "title":"Space 3",
-      "image":"file:///android_asset/image/space3.jpg",
-      "lock":true
-    },
-    {
-      "id":16,
-      "name_category": "Space",
-      "title":"Space 4",
-      "image":"file:///android_asset/image/space4.jpg",
-      "lock":false
-    },
-    {
-      "id":17,
-      "name_category": "Space",
-      "title":"Space 5",
-      "image":"file:///android_asset/image/space5.jpg",
-      "lock":true
-    },
-    {
-      "id":18,
-      "name_category": "Space",
-      "title":"Space 6",
-      "image":"file:///android_asset/image/space6.jpg",
-      "lock":false
-    },
-    {
-      "id":19,
-      "name_category": "Astronout",
-      "title":"Astronout 1",
-      "image":"file:///android_asset/image/astro1.jpg",
-      "lock":true
-    },
-    {
-      "id":20,
-      "name_category": "Astronout",
-      "title":"Astronout 2",
-      "image":"file:///android_asset/image/astro2.jpg",
-      "lock":false
-    },
-    {
-      "id":21,
-      "name_category": "Astronout",
-      "title":"Astronout 3",
-      "image":"file:///android_asset/image/astro3.jpg",
-      "lock":false
-    },
-    {
-      "id":22,
-      "name_category": "Astronout",
-      "title":"Astronout 4",
-      "image":"file:///android_asset/image/astro4.jpg",
-      "lock":true
-    },
-    {
-      "id":23,
-      "name_category": "Astronout",
-      "title":"Astronout 2",
-      "image":"file:///android_asset/image/astro5.jpg",
-      "lock":false
-    },
-    {
-      "id":24,
-      "name_category": "Astronout",
-      "title":"Astronout 4",
-      "image":"file:///android_asset/image/astro6.jpg",
-      "lock":false
-    },
-    {
-      "id":25,
-      "name_category": "Media Art",
-      "title":"Vector Art 1",
-      "image":"file:///android_asset/image/art1.jpg",
-      "lock":true
-    },
-    {
-      "id":26,
-      "name_category": "Media Art",
-      "title":"Vector Art 2",
-      "image":"file:///android_asset/image/art2.jpg",
-      "lock":false
-    },
-    {
-      "id":27,
-      "name_category": "Media Art",
-      "title":"Vector Art 3",
-      "image":"file:///android_asset/image/art3.jpg",
-      "lock":true
-    },
-    {
-      "id":28,
-      "name_category": "Media Art",
-      "title":"Vector Art 4",
-      "image":"file:///android_asset/image/art4.jpg",
-      "lock":false
-    },
-    {
-      "id":29,
-      "name_category": "Media Art",
-      "title":"Vector Art 5",
-      "image":"file:///android_asset/image/art5.jpg",
-      "lock":false
-    },
-    {
-      "id":30,
-      "name_category": "Media Art",
-      "title":"Vector Art 6",
-      "image":"file:///android_asset/image/art6.jpg",
-      "lock":false
-    }
+    
   ]
 }
